@@ -1,2 +1,2 @@
 # Nutritional_planner_and_food-_recommendation
-Helps users to healthy meals and track nutrition intake
+Helps users to healthy meals and track nutrition intake.NutriGenie is a comprehensive web application designed to take the guesswork out of healthy eating. Whether you’re looking to lose weight, build muscle, or simply maintain a balanced diet, NutriPlan generates customized meal plans based on your unique biometric data and dietary preferences.Unlike traditional planners, NutriPlan learns from user feedback and biometric trends to optimize dietary adherence and health outcomes.
